@@ -1,2 +1,5 @@
 # Pemrograman-Web-Mobile-A
-Praktikum
+Nama: Elnatan Keningatko
+NIM : 193020503038
+
+Repo ini merupakan file Laporan Hasil Praktikum tiap Modul berserta File PHP
