@@ -1,0 +1,31 @@
+[
+  {
+    "name": "Andy",
+    "address": "Jl. B. Koetin",
+  },
+
+  {
+    "name": "Fito",
+    "address": "Jl. G.Obos",
+  },
+
+  {
+    "name": "Yudha",
+    "address": "Jl. Tjilik Riwut",
+  },
+
+  {
+    "name": "Steven",
+    "address": "Jl. Paus",
+  },
+
+  {
+    "name": "Elnatan",
+    "address": "Jl. Gang Batu Banama",
+  },
+
+  {
+    "name": "Firdaus",
+    "address": "Jl. Raden Saleh",
+  }
+]
